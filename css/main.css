@@ -43,7 +43,7 @@
             /* تأكد من أن الكارد ليس مخفيًا بشكل افتراضي */
             transition: 3s;
         }
-        .fa-whatsapp{
+        .fa-whatsapp-main{
             position: fixed;
             font-size: 48px;
             z-index: 1000000;
